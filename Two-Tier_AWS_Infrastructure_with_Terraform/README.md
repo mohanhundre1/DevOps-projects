@@ -67,7 +67,7 @@ These project highlights showcase the comprehensive AWS services integrated into
 ## Connect with Me
 
 - GitHub: [GitHub Profile](https://github.com/mohanhundre1/DevOps-projects)
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/mohanhundre)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/mohanhundre/)
 
 ## Contributions
 
