@@ -21,8 +21,8 @@ Follow these steps to deploy the Two-Tier architecture:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/NotHarshhaa/DevOps-Projects
-   cd DevOps-Projects/DevOps Project-11/
+   git clone https://github.com/mohanhundre1/DevOps-projects.git
+   cd DevOps-Projects/Two-Tier_AWS_Infrastructure_with_terraform/
    ```
 
 2. **Plan and Apply:**
