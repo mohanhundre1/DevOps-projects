@@ -1,5 +1,4 @@
-# DevSecOps (DevOps) Project: Deploying a Petshop Java-Based Application with CI/CD, Docker, and Kubernetes
-
+# DevSecOps (DevOps) Project: DevOps_Application_deploy_using_CI_CD
 ![](<https://miro.medium.com/v2/resize:fit:700/1*zUI953VFZti2eEqeddnU_g.png>)
 
 # **Introduction**
